@@ -12,7 +12,7 @@ Welcome to **Mo2MenV**.
 
 To get started, go to Release and download **setup.cmd**.
 1. Run it as Administrator.
-2. Download the Release .exe file into the Mo2MenV folder in the desktop.
+The file will have been created on your desktop, the source files are located in the documents.
 
 The installation tutorial is also available on YouTube: [Watch Tutorial](https://www.youtube.com/watch?v=dosTU8eMDCY)
 
@@ -20,7 +20,7 @@ The installation tutorial is also available on YouTube: [Watch Tutorial](https:/
 
 Pour commencer, allez sur Release et téléchargez **setup.cmd**.
 1. Executez le en tant qu'administrateur.
-2. Téléchargez le fichier .exe dans Release dans le dossier Mo2MenV sur le bureau.
+Le fichier aura été créé sur votre bureau, les fichiers sources se situent dans les documents.
 
 Le tutoriel d'installation est également disponible sur YouTube : [Regarder le tutoriel](https://www.youtube.com/watch?v=dosTU8eMDCY)
 
