@@ -36,7 +36,7 @@ Le tutoriel d'installation est également disponible sur YouTube : [Regarder le 
 
 ## Download and Usage:
 
-Run the **Mo2MenV.exe** file in the Mo2MenV folder..
+Run the **Mo2MenV.exe** file in the Mo2MenV folder.
 
 ## Languages:
 
