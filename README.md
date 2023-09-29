@@ -10,27 +10,17 @@ Welcome to **Mo2MenV**.
 
 ## Installation (English):
 
-To get started, create a folder on your desktop named "Mo2MenV".
-1. Go to **Windows Defender**.
-2. Navigate to "Virus & Threat Protection".
-3. Click on "Virus & Threat Protection Settings".
-4. Select "Add or Remove Exclusions".
-5. Click on "Add an Exclusion".
-6. Choose the created folder.
-7. Download the Release .exe file into the Mo2MenV folder.
+To get started, go to Release and download **setup.cmd**.
+1. Run it as Administrator.
+2. Download the Release .exe file into the Mo2MenV folder in the desktop.
 
 The installation tutorial is also available on YouTube: [Watch Tutorial](https://www.youtube.com/watch?v=dosTU8eMDCY)
 
 ## Installation (Français):
 
-Pour commencer, créez un dossier sur votre bureau nommé "Mo2MenV".
-1. Allez dans **Windows Defender**.
-2. Accédez à "Protection contre les virus et les menaces".
-3. Cliquez sur "Paramètres de protection contre les virus et les menaces".
-4. Allez dans "Ajouter ou supprimer des exclusions".
-5. Cliquez sur "Ajouter une exclusion".
-6. Choisissez le dossier que vous avez créé.
-7. Téléchargez le fichier .exe dans Release dans le dossier créé auparavant.
+Pour commencer, allez sur Release et téléchargez **setup.cmd**.
+1. Executez le en tant qu'administrateur.
+2. Téléchargez le fichier .exe dans Release dans le dossier Mo2MenV sur le bureau.
 
 Le tutoriel d'installation est également disponible sur YouTube : [Regarder le tutoriel](https://www.youtube.com/watch?v=dosTU8eMDCY)
 
