@@ -10,8 +10,8 @@ Welcome to **Mo2MenV**.
 
 ## Installation (English):
 
-To get started, go to Release and download **setup.cmd**.
-1. Run it as Administrator.
+1. To get started, go to Release and download **setup.cmd**.
+2. Run it as Administrator.
 
 The file will have been created on your desktop, the source files are located in the documents.
 
@@ -19,8 +19,8 @@ The installation tutorial is also available on YouTube: [Watch Tutorial](https:/
 
 ## Installation (Français):
 
-Pour commencer, allez sur Release et téléchargez **setup.cmd**.
-1. Executez le en tant qu'administrateur.
+1. Pour commencer, allez sur Release et téléchargez **setup.cmd**.
+2. Executez le en tant qu'administrateur.
    
 Le fichier aura été créé sur votre bureau, les fichiers sources se situent dans les documents.
 
