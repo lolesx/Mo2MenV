@@ -18,7 +18,7 @@ To get started, create a folder on your desktop named "Mo2MenV".
 5. Click on "Add an Exclusion".
 6. Choose the created folder.
 
-The installation tutorial is also available on YouTube: [Watch Tutorial](https://www.youtube.com/)
+The installation tutorial is also available on YouTube: [Watch Tutorial](https://www.youtube.com/watch?v=dosTU8eMDCY)
 
 ## Installation (Français):
 
@@ -30,11 +30,20 @@ Pour commencer, créez un dossier sur votre bureau nommé "Mo2MenV".
 5. Cliquez sur "Ajouter une exclusion".
 6. Choisissez le dossier que vous avez créé.
 
-Le tutoriel d'installation est également disponible sur YouTube : [Regarder le tutoriel](https://www.youtube.com/)
+Le tutoriel d'installation est également disponible sur YouTube : [Regarder le tutoriel](https://www.youtube.com/watch?v=dosTU8eMDCY)
 
 ## Download and Usage:
 
 Download the Release .exe file into the folder.
 Run the **Mo2MenV.exe** file.
 
+## Languages:
+
+Mo2MenV Is disponible in english and in french, it automatically detects the language.
+
 Enjoy the features of **Mo2MenV**!
+
+![Demo Image 1]([URL_OF_DEMO_IMAGE_1](https://cdn.discordapp.com/attachments/1128290930370289785/1157409256484651129/image.png?ex=651880de&is=65172f5e&hm=f2112fd85af11e6fd02ec5ec62417eb2fca99d756ae0431ac3e850d08b1a0c67&)https://cdn.discordapp.com/attachments/1128290930370289785/1157409256484651129/image.png?ex=651880de&is=65172f5e&hm=f2112fd85af11e6fd02ec5ec62417eb2fca99d756ae0431ac3e850d08b1a0c67&)
+![Demo Image 2]([URL_OF_DEMO_IMAGE_2](https://cdn.discordapp.com/attachments/1128290930370289785/1157409486626107452/image.png?ex=65188115&is=65172f95&hm=ec9488f5bd5dda70d1c7c78abedbdf1601ef25bf0e3c8fd1f48b2431ff874885&)https://cdn.discordapp.com/attachments/1128290930370289785/1157409486626107452/image.png?ex=65188115&is=65172f95&hm=ec9488f5bd5dda70d1c7c78abedbdf1601ef25bf0e3c8fd1f48b2431ff874885&)
+![Demo Image 3]([URL_OF_DEMO_IMAGE_3](https://cdn.discordapp.com/attachments/1128290930370289785/1157409668977668126/image.png?ex=65188140&is=65172fc0&hm=a225ba2097d48ee235f2e2ebf2b06759a28058ea020136fddb670d4e0fc0a744&)https://cdn.discordapp.com/attachments/1128290930370289785/1157409668977668126/image.png?ex=65188140&is=65172fc0&hm=a225ba2097d48ee235f2e2ebf2b06759a28058ea020136fddb670d4e0fc0a744&)
+![Demo Image 4]([URL_OF_DEMO_IMAGE_4](https://cdn.discordapp.com/attachments/1128290930370289785/1157409349778542662/image.png?ex=651880f4&is=65172f74&hm=8f16922831430f604b7c1bb2fc4513ace43eea565c7bc628216ed9c4a23d4cc3&)https://cdn.discordapp.com/attachments/1128290930370289785/1157409349778542662/image.png?ex=651880f4&is=65172f74&hm=8f16922831430f604b7c1bb2fc4513ace43eea565c7bc628216ed9c4a23d4cc3&)
