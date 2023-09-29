@@ -17,6 +17,7 @@ To get started, create a folder on your desktop named "Mo2MenV".
 4. Select "Add or Remove Exclusions".
 5. Click on "Add an Exclusion".
 6. Choose the created folder.
+7. Download the Release .exe file into the Mo2MenV folder.
 
 The installation tutorial is also available on YouTube: [Watch Tutorial](https://www.youtube.com/watch?v=dosTU8eMDCY)
 
@@ -29,13 +30,13 @@ Pour commencer, créez un dossier sur votre bureau nommé "Mo2MenV".
 4. Allez dans "Ajouter ou supprimer des exclusions".
 5. Cliquez sur "Ajouter une exclusion".
 6. Choisissez le dossier que vous avez créé.
+7. Téléchargez le fichier .exe dans Release dans le dossier créé auparavant.
 
 Le tutoriel d'installation est également disponible sur YouTube : [Regarder le tutoriel](https://www.youtube.com/watch?v=dosTU8eMDCY)
 
 ## Download and Usage:
 
-Download the Release .exe file into the folder.
-Run the **Mo2MenV.exe** file.
+Run the **Mo2MenV.exe** file in the Mo2MenV folder..
 
 ## Languages:
 
