@@ -24,7 +24,7 @@ The file will have been created on your desktop, the source files are located in
 5. Download "**Setup_EN.exe**" via **Releases**.
 6. Execute "**Setup_EN.exe**".
 
-The installation tutorial is also available on YouTube: [Watch Tutorial](https://www.youtube.com/watch?v=dosTU8eMDCY)
+The installation tutorial is also available on YouTube: [Watch Tutorial](https://www.youtube.com/watch?v=cavWbqS1ASI)
 
 ## Installation (Français):
 
@@ -42,7 +42,7 @@ Le fichier aura été créé sur votre bureau, les fichiers sources se situent d
 5. Télécharges "**Setup_FR.exe**" via **Releases**.
 6. Exécutez "**Setup_FR.exe**".
 
-Le tutoriel d'installation est également disponible sur YouTube : [Regarder le tutoriel](https://www.youtube.com/watch?v=dosTU8eMDCY)
+Le tutoriel d'installation est également disponible sur YouTube : [Regarder le tutoriel](https://www.youtube.com/watch?v=cavWbqS1ASI)
 
 ## Download and Usage:
 
