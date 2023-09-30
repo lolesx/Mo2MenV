@@ -10,6 +10,7 @@ Welcome to **Mo2MenV**.
 
 ## Installation (English):
 
+### Via the setup.bat:
 1. To get started, go to Release and download **setup.cmd**.
 2. Run it as Administrator.
 
