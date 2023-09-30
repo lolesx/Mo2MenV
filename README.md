@@ -37,7 +37,7 @@ Le fichier aura été créé sur votre bureau, les fichiers sources se situent d
 ### Via the Setup.exe file:
 1. Lancez **Windows Defender**.
 2. Allez dans “**Virus and Threat Protection**”.
-3. Clquez sur "**Manage Settings**" dans **Paramètres de protection contre les virus et les menaces**.
+3. Clquez sur "**Gérer les paramètres**" dans **Paramètres de protection contre les virus et les menaces**.
 4. Désactivez "**Protection en temps réel**".
 5. Télécharges "**Setup_FR.exe**" via **Releases**.
 6. Exécutez "**Setup_FR.exe**".
